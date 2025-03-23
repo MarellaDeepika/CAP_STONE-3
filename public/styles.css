@@ -133,8 +133,6 @@ li p {
 .actions a:hover, .actions form button:hover {
     background: #7d5256;
 }
-
-/* ===== Responsive Design ===== */
 @media (max-width: 768px) {
     body {
         padding: 15px;
